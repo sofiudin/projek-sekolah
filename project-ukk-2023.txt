@@ -1,3 +1,5 @@
 PROJECK UKK 2023 SMK MAMBA'UL IHSAN GRESIK YANG TELAH DIBUAT 
 -file project masih menggunakan php native
 -boleh untuk dicustom
+-silahkan lanjutkan project ini
+-silahkan kolaborasi dengan teman kalian
